@@ -2,3 +2,5 @@
 
 ### install requirements
     pip install requests
+### jalankan file
+    py subfinder.py
